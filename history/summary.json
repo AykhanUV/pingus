@@ -4,19 +4,19 @@
     "url": "https://65617f0c-04f8-4ac2-9cf4-616a91cc8d35-00-dof3ck9k3e8w.pike.replit.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/65617f0c-04f8-4ac2-9cf4-616a91cc8d35-00-dof3ck9k3e8w.pike.replit.dev.ico",
     "slug": "replit-dev-site",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 1040,
-    "timeDay": 1040,
-    "timeWeek": 1040,
-    "timeMonth": 1040,
-    "timeYear": 1040,
+    "status": "up",
+    "uptime": "16.03%",
+    "uptimeDay": "16.03%",
+    "uptimeWeek": "16.03%",
+    "uptimeMonth": "16.03%",
+    "uptimeYear": "16.03%",
+    "time": 1010,
+    "timeDay": 1010,
+    "timeWeek": 1010,
+    "timeMonth": 1010,
+    "timeYear": 1010,
     "dailyMinutesDown": {
-      "2025-04-26": 0
+      "2025-04-26": 40
     }
   }
 ]
